@@ -1,0 +1,28 @@
+{
+    "sites": [
+        {
+            "name": "aitianhu",
+            "site": "https://www.aitianhu.com/"
+        },
+        {
+            "name": "bnu1200",
+            "site": "https://chat.0.bnu120.space/"
+        },
+        {
+            "name": "chatbot",
+            "site": "https://chatbot.theb.ai/"
+        },
+        {
+            "name": "yqcloud",
+            "site": "https://dev.yqcloud.top/"
+        },
+        {
+            "name": "bnu1201",
+            "site": "https://chat.1.bnu120.space/"
+        },
+        {
+            "name": "bnu1202",
+            "site": "https://chat.2.bnu120.space/"
+        }
+    ]
+}
