@@ -1,10 +1,6 @@
 {
     "sites": [
         {
-            "name": "aitianhu",
-            "site": "https://www.aitianhu.com/"
-        },
-        {
             "name": "bnu1200",
             "site": "https://chat.0.bnu120.space/"
         },
