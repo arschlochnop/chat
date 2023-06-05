@@ -1,5 +1,9 @@
 {
     "sites": [
+          {
+            "name": "自建  密码问运维",
+            "site": "http://116.193.153.15:63000/"
+        },
         {
             "name": "bnu1200",
             "site": "https://chat.0.bnu120.space/"
